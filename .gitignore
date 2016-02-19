@@ -1,6 +1,6 @@
-build/
-dist/
-gcm-demo.iml
-.gradle/
+# JetBrains IntelliJ
 .idea/
-local.properties
+*.iml
+
+# Maven
+target/
